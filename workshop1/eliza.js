@@ -114,11 +114,11 @@ var rules = {
   	"I shit my pants",
 
   ],
-  "~*x is like ~*y": [
-    "In what way is it that ~x is like ~y?",
-    "What resemblence do you see?",
-    "Could there really be some connection?",
-    "How?",
+  "~*x fuck you ~*y": [
+    "In what way is it shit ~x is like ~y?",
+    "I shit my pants?",
+    "I want a cig",
+    "Nap?",
   ],
   "~*x alike ~*y": [
     "In what way?",

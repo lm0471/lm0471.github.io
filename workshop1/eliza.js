@@ -110,8 +110,9 @@ var rules = {
     "I am sorry to hear you are depressed",
     "I'm sure it's not pleasant to be sad",
   ],
-  "~*x are like ~*y": [
-    "What resemblence do you see between ~x and ~y?",
+  "~*x Fuck you ~*y" : [
+  	"I shit my pants",
+
   ],
   "~*x is like ~*y": [
     "In what way is it that ~x is like ~y?",
